@@ -164,4 +164,4 @@ Bruno Reges- [GitHub](https://github.com/regesguitar)
 
 ---
 
-⌨️ com ❤️ por [seu-usuario](https://github.com/seu-usuario) 😊
+⌨️ com ❤️ por [seu-usuario](https://github.com/regesgitar) 😊
