@@ -152,7 +152,7 @@ Este projeto está sob a licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) 
 
 ## 👨‍💻 Autor
 
-Seu Nome - [GitHub](https://github.com/seu-usuario)
+Bruno Reges- [GitHub](https://github.com/regesguitar)
 
 ## 🙏 Agradecimentos
 
