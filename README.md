@@ -2,7 +2,8 @@
 
 Meta Daily Trader é uma aplicação web desenvolvida com React e TypeScript para ajudar traders a gerenciar suas metas diárias de trading. A aplicação permite que os usuários definam metas de lucro progressivas e utilizem a técnica Pomodoro para manter o foco durante as operações.
 
-![Meta Daily Trader Screenshot](/api/placeholder/800/400)
+![image](https://github.com/user-attachments/assets/5199314b-9fda-4e9a-9015-2dc4d88ef380)
+
 
 ## 🚀 Funcionalidades
 
